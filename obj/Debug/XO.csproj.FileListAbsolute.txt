@@ -1,0 +1,10 @@
+c:\users\user\source\repos\XO\bin\Debug\XO.exe.config
+c:\users\user\source\repos\XO\bin\Debug\XO.exe
+c:\users\user\source\repos\XO\bin\Debug\XO.pdb
+c:\users\user\source\repos\XO\obj\Debug\XO.csprojAssemblyReference.cache
+c:\users\user\source\repos\XO\obj\Debug\XO.Form1.resources
+c:\users\user\source\repos\XO\obj\Debug\XO.Properties.Resources.resources
+c:\users\user\source\repos\XO\obj\Debug\XO.csproj.GenerateResource.cache
+c:\users\user\source\repos\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\XO\obj\Debug\XO.exe
+c:\users\user\source\repos\XO\obj\Debug\XO.pdb
